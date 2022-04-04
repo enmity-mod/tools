@@ -9,7 +9,7 @@
    Tools used to develop Enmity plugins.
    <br />
 
-   Use `npm run install` to install the required modules.
+   Use `npm run install-modules` to install the required modules.
    Use `npm start` to start the webserver.
    </p>
 </div>

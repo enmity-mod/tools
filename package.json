@@ -1,0 +1,19 @@
+{
+  "name": "enmity-tools",
+  "version": "1.0.0",
+  "description": "Tools used to develop Enmity plugins.",
+  "main": "server/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmity-mod/enmity-tools.git"
+  },
+  "author": "Zoey",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/enmity-mod/enmity-tools/issues"
+  },
+  "homepage": "https://github.com/enmity-mod/enmity-tools#readme"
+}
